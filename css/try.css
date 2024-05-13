@@ -1,0 +1,52 @@
+.service{
+	width: 100%;
+	height: auto;
+	margin: 10px 0;
+	text-align: center;.
+}
+.Service-div{
+	background-color: #fff;
+	border: medium none;
+	transition: 0.3s;	
+}
+.Service-div h5{
+	font-size: 1rem;	
+	font-weight: bold;
+	line-height: 1.1;
+	word-spacing: 4px; 
+	
+}
+.Service-div p{
+	font-size: 0.7rem;	
+	line-height: 1.2;
+	word-spacing: 5px; 
+}	
+.Service-div: hover{
+	box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
+	transform: translateY(-20);
+}
+/////-->
+<div id="sr"><h4><center><u>Service</u></center></h4></div>
+<section class="Service">
+<div class="container-fluid">
+<div  class="row">
+	<div class="col-sm-4 Service-div">
+		<i class="fa-2x fa fa-laptop"></i>
+		<h5><center><b>Web Develpment</b></center></h5>
+		<p>A winning website strategy is all about bringing the two sides together. That's why we begin every project with an onsite workshop to transfer knowledge and build a consensus</p>
+	</div>
+	<div class="col-sm-4 Service-div">
+		<i class="fa-2x fa fa-mobile "></i>
+		<h5><center><b>Mobile Develpment</b></center></h5>
+		<p>A winning website strategy is all about bringing the two sides together. That's why we begin every project with an onsite workshop to transfer knowledge and build a consensus</p>
+	</div>
+	<div class="col-sm-4 Service-div">
+		<i class="fa-2x fa fa-cogs"></i>
+		<h5><center><b>Software Develpment</b></center></h5>
+		<p>A winning website strategy is all about bringing the two sides together. That's why we begin every project with an onsite workshop to transfer knowledge and build a consensus</p>
+	</div>
+	
+</div>
+</div>
+</section>
+<br>
